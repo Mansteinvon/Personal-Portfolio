@@ -73,7 +73,13 @@
     background-color: #e5e5e5;
   }
   
-  
+  #visiontop{
+    background-size: contain; 
+
+    color: yellow;
+    background-image: url("./assets/view.jpg");
+
+  }
   /*
    * Extra utilities
    */
